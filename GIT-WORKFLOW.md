@@ -76,11 +76,11 @@ Are you working on a feature that will take a week or longer to complete? When y
    
    Create a new pull request for `your-name/edit-profile` setting the base branch to `develop`. No need to get any pull request reviews for this pull request because all of the commits you made up to this point have been reviewed. So, you can go ahead and just merge the pull request into `develop` after all of the GitHub Status Checks in the pull request are successful. 
    
-   ![CleanShot 2022-06-29 at 11.12.07@2x](../img/github_pr_failed_status_checks.png)
+   ![CleanShot 2022-06-29 at 11.12.07@2x](/images/github_pr_failed_status_checks.png)
 
 > Here, you see that this pull request on GitHub has failed status checks. Make sure to fix all of the errors in tests and lint before merging your pull request. 
 
-![CleanShot 2022-06-29 at 11.13.16@2x](../img/github_pr_successful_status_checks.png)
+![CleanShot 2022-06-29 at 11.13.16@2x](/images/github_pr_successful_status_checks.png)
 
 > This pull request on GitHub has all of the status checks passing. That means the pull request is ready to merge! 
 
